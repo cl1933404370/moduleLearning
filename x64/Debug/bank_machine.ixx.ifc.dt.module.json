@@ -1,9 +1,0 @@
-{
-    "Version": "1.1",
-    "Data": {
-        "Source": "d:\\project\\repos\\resourcepool\\bank_machine.ixx",
-        "ProvidedModule": "bank_machine",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
-}
