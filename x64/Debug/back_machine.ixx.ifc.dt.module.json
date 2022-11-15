@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\repos\\resourcepool\\back_machine.ixx",
+        "ProvidedModule": "back_machine",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

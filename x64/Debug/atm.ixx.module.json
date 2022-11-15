@@ -1,0 +1,16 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\repos\\resourcepool\\atm.ixx",
+        "ProvidedModule": "ATM",
+        "ImportedModules": [
+            "receiver",
+            "sender",
+            "withdraw",
+            "dispatcher"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.35.32019\\include\\string"
+        ]
+    }
+}

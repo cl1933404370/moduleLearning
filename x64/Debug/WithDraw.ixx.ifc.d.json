@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\project\\repos\\resourcepool\\withdraw.ixx",
+        "ProvidedModule": "withdraw",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Messaging",
+                "BMI": "D:\\project\\repos\\ResourcePool\\x64\\Debug\\Messaging.ixx.ifc"
+            },
+            {
+                "Name": "sender",
+                "BMI": "D:\\project\\repos\\ResourcePool\\x64\\Debug\\sender.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.35.32019\\include\\string",
+                "BMI": "D:\\project\\repos\\ResourcePool\\x64\\Debug\\string_SYDQXN2K6ETWNWJG.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.35.32019\\include\\mutex",
+                "BMI": "D:\\project\\repos\\ResourcePool\\x64\\Debug\\mutex_25QJRFL6CAZA6BI5.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.35.32019\\include\\memory",
+                "BMI": "D:\\project\\repos\\ResourcePool\\x64\\Debug\\memory_JKW0H7JDSWHE33J3.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.35.32019\\include\\queue",
+                "BMI": "D:\\project\\repos\\ResourcePool\\x64\\Debug\\queue_EJB8KHRC2S0CYRJY.ifc"
+            }
+        ]
+    }
+}
